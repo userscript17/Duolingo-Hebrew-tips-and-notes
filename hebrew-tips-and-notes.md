@@ -17,7 +17,7 @@
 *   [Adjectives 1 - Basics](#Adjectives1-basics)
 *   [Direct Object](#Direct-object)
 *   [Clothing](#Clothing)
-*   [Verbs: Present - Pa'al](#Verbs:-Present1)
+*   [Verbs: Present - Pa'al](#VerbsPresent1)
 *   [Colors](#Colors)
 *   [Prepositions 1](#Prepositions-1)
 *   [Numbers 1](#Numbers-1)
@@ -27,15 +27,15 @@
 *   [Conjunctions](#Conjunctions)
 *   [Prepositions 2](#Prepositions-2)
 *   [Possessives 2](#Possessives-2)
-*   [Verbs: Present - Pi'el](#Verbs:-Present-2)
+*   [Verbs: Present - Pi'el](#VerbsPresent2)
 *   [Dates and Time](#Dates-and-Time)
 *   [Adjectives 2](#Adjectives-2)
 *   [Adverbs](#Adverbs)
 *   [Family](#Family)
 *   [Home Sweet Home](#Home)
 *   [Construct State 1](#Construct-state-1)
-*   [Infinitives 1](#Verbs:-Infinitive)
-*   [Verbs: Present - Hiph'il](#Verbs:-Present-3)
+*   [Infinitives 1](#VerbsInfinitive)
+*   [Verbs: Present - Hiph'il](#VerbsPresent3)
 *   [People](#People)
 *   [Numbers 2](#Numbers-2)
 *   [Modals](#Modal)
@@ -43,25 +43,25 @@
 *   [Travel](#Travel)
 *   [Verbs: Past Active 1](#Verbs:-Past-Active)
 *   [Comparison](#Comparison)
-*   [Verbs: Present Reflexive - Hitpa'el](#Verbs:-Present-Reflexive---Hitpa'el)
+*   [Verbs: Present Reflexive - Hitpa'el](#VerbsPresentReflexiveHitpael)
 *   [Adjectives 3](#Adjectives-3)
 *   [Imperative 1](#Imperative-1)
 *   [Languages](#Languages)
 *   [Emergency!](#Emergency!)
 *   [Verbs: Future Active 1](#Verbs:-Future-Active)
-*   [Passive: Pa'ul, Pu'al and Huf'al](#Passive:-Paul-Pual-Hufal)
+*   [Passive: Pa'ul, Pu'al and Huf'al](#PassivePaulPualHufal)
 *   [Nif'al Construction](#Nifal-Construction)
 *   [Nature](#Nature)
 *   [Discussions and decisions](#Discussions-and-decisions)
 *   [Imperative 2](#Imperative-2)
 *   [Verbs: Past Active 2](#Verbs:-Past-Active-2)
-*   [Past Nif'al](#Verbs:-Past-Nifal)
-*   [Infinitives 2](#Verbs:-Infinitives-2)
+*   [Past Nif'al](#VerbsPastNifal)
+*   [Infinitives 2](#VerbsInfinitives2)
 *   [Construct State 2](#Contruct-State-2)
 *   [The Conditional](#Verbs:-Conditional)
 *   [Medical](#Medical)
 *   [Negative Imperatives](#Negative-Imperatives)
-*   [Verbal Nouns](#Nouns:-VerbalNouns)
+*   [Verbal Nouns](#NounsVerbalNouns)
 *   [Music](#Music)
 *   [Diminutives](#Diminutives)
 *   [Future Nif'al](#Verbs:-Future-Nifal)
@@ -110,11 +110,11 @@
 *   [Nature](#Nature)
 *   [Negative Imperatives](#Negative-Imperatives)
 *   [Nif'al Construction](#Nifal-Construction)
-*   [Verbal Nouns](#Nouns:-VerbalNouns)
+*   [Verbal Nouns](#NounsVerbalNouns)
 *   [Numbers 1](#Numbers-1)
 *   [Numbers 2](#Numbers-2)
 *   [Occupations](#Occupations)
-*   [Passive: Pa'ul, Pu'al and Huf'al](#Passive:-Paul-Pual-Hufal)
+*   [Passive: Pa'ul, Pu'al and Huf'al](#PassivePaulPualHufal)
 *   [People](#People)
 *   [Plurals](#Plurals)
 *   [Possessives 1](#Possessives-1)
@@ -127,16 +127,16 @@
 *   [Travel](#Travel)
 *   [The Conditional](#Verbs:-Conditional)
 *   [Verbs: Future Active 1](#Verbs:-Future-Active)
-*   [Future Nif'al](#Verbs:-Future-Nifal)
-*   [Infinitives 1](#Verbs:-Infinitive)
-*   [Infinitives 2](#Verbs:-Infinitives-2)
+*   [Future Nif'al](#VerbsFutureNifal)
+*   [Infinitives 1](#VerbsInfinitive)
+*   [Infinitives 2](#VerbsInfinitives2)
 *   [Verbs: Past Active 1](#Verbs:-Past-Active)
 *   [Verbs: Past Active 2](#Verbs:-Past-Active-2)
-*   [Past Nif'al](#Verbs:-Past-Nifal)
-*   [Verbs: Present - Pi'el](#Verbs:-Present-2)
-*   [Verbs: Present - Hiph'il](#Verbs:-Present-3)
-*   [Verbs: Present Reflexive - Hitpa'el](#Verbs:-Present-Reflexive---Hitpa'el)
-*   [Verbs: Present - Pa'al](#Verbs:-Present1)
+*   [Past Nif'al](#VerbsPastNifal)
+*   [Verbs: Present - Pi'el](#VerbsPresent2)
+*   [Verbs: Present - Hiph'il](#VerbsPresent3)
+*   [Verbs: Present Reflexive - Hitpa'el](#VerbsPresentReflexiveHitpael)
+*   [Verbs: Present - Pa'al](#VerbsPresent)
 
 # <a name="Letters-1">Letters 1</a>
 
@@ -2897,7 +2897,7 @@ If the font supports the traditional shape of the _geresh_, it is in line with t
 
 ג׳ינס
 
-# <a name="Verbs:-Present1">Verbs: Present - Pa'al</a>
+# <a name="VerbsPresent1">Verbs: Present - Pa'al</a>
 
 ## Binyanim
 
@@ -4373,7 +4373,7 @@ When words have possessive endings attached to them, they are always definite, s
 אני רואה **את** סוסך  
 I (can) see your horse.
 
-# <a name="Verbs:-Present-2">Verbs: Present - Pi'el</a>
+# <a name="VerbsPresent2">Verbs: Present - Pi'el</a>
 
 ## **The 2nd construction: פִיעֵל (pi'el)**
 
@@ -4824,7 +4824,7 @@ The construct state is not complicated, but requires some practice and memorizin
 
 Good luck!
 
-# <a name="Verbs:-Infinitive">Infinitives 1</a>
+# <a name="VerbsInfinitive">Infinitives 1</a>
 
 Infinitives in Hebrew work in much the same way as in English. The infinitive form of the verb starts with -ל (to).
 
@@ -4858,7 +4858,7 @@ For example (when using the infinitive "לכתוב" - to write):
 
 > איך לכתוב את זה? = How does one write this? / How do I write this etc.
 
-# <a name="Verbs:-Present-3">Verbs: Present - Hiph'il</a>
+# <a name="VerbsPresent3">Verbs: Present - Hiph'il</a>
 
 ## The construction: הִפְעִיל (hiph'il)
 
@@ -5761,7 +5761,7 @@ and
 
 mean essentially the same thing: this is the best (one). ביותר is the higher register option but still common in everyday speech.
 
-# <a name="Verbs:-Present-Reflexive---Hitpa'el">Verbs: Present Reflexive - Hitpa'el</a>
+# <a name="VerbsPresentReflexiveHitpael">Verbs: Present Reflexive - Hitpa'el</a>
 
 ## The 4th construction: הִתְפַּעֵל (hitpa'el)
 
@@ -6707,7 +6707,7 @@ In sentences such as
 
 The future tense in Hebrew translates into English as "would": "I thought you would be there".
 
-# <a name="Passive:-Paul-Pual-Hufal">Passive: Pa'ul, Pu'al and Huf'al</a>
+# <a name="PassivePaulPualHufal">Passive: Pa'ul, Pu'al and Huf'al</a>
 
 In this skill we teach two of the three passive constructions (binyanim). Each passive construction has an equivalent active construction:
 
@@ -7261,7 +7261,7 @@ This skill deals mostly with the past tense of the hitpa'el binyan. Here is the 
 
 </table>
 
-# <a name="Verbs:-Past-Nifal">Past Nif'al</a>
+# <a name="VerbsPastNifal">Past Nif'al</a>
 
 Here is the general pattern for the past tense of nif'al:
 
@@ -7381,7 +7381,7 @@ You may have noticed that the third person masculine singular is pronounced iden
 
 It sounded good to me - זה היה נשמע לי טוב
 
-# <a name="Verbs:-Infinitives-2">Infinitives 2</a>
+# <a name="VerbsInfinitives2">Infinitives 2</a>
 
 **Hiph'il Pattern**
 
@@ -7473,7 +7473,7 @@ Negative imperatives are created using the word אל (al) followed by the **futu
 אל תעשה את זה - Don't do that. (to a male, singular)  
 **Not** _אל עשה את זה_ (incorrect!)
 
-# <a name="Nouns:-VerbalNouns">Verbal Nouns</a>
+# <a name="NounsVerbalNouns">Verbal Nouns</a>
 
 In English, verbal nouns can be created by adding -ing to the verb. For example: reading and writing.
 
