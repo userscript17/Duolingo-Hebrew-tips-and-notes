@@ -41,30 +41,30 @@
 *   [Modals](#Modal)
 *   [Education](#Education)
 *   [Travel](#Travel)
-*   [Verbs: Past Active 1](#Verbs:-Past-Active)
+*   [Verbs: Past Active 1](#VerbsPastActive)
 *   [Comparison](#Comparison)
 *   [Verbs: Present Reflexive - Hitpa'el](#VerbsPresentReflexiveHitpael)
 *   [Adjectives 3](#Adjectives-3)
 *   [Imperative 1](#Imperative-1)
 *   [Languages](#Languages)
 *   [Emergency!](#Emergency!)
-*   [Verbs: Future Active 1](#Verbs:-Future-Active)
+*   [Verbs: Future Active 1](#VerbsFutureActive)
 *   [Passive: Pa'ul, Pu'al and Huf'al](#PassivePaulPualHufal)
 *   [Nif'al Construction](#Nifal-Construction)
 *   [Nature](#Nature)
 *   [Discussions and decisions](#Discussions-and-decisions)
 *   [Imperative 2](#Imperative-2)
-*   [Verbs: Past Active 2](#Verbs:-Past-Active-2)
+*   [Verbs: Past Active 2](#VerbsPastActive2)
 *   [Past Nif'al](#VerbsPastNifal)
 *   [Infinitives 2](#VerbsInfinitives2)
 *   [Construct State 2](#Contruct-State-2)
-*   [The Conditional](#Verbs:-Conditional)
+*   [The Conditional](#VerbsConditional)
 *   [Medical](#Medical)
 *   [Negative Imperatives](#Negative-Imperatives)
 *   [Verbal Nouns](#NounsVerbalNouns)
 *   [Music](#Music)
 *   [Diminutives](#Diminutives)
-*   [Future Nif'al](#Verbs:-Future-Nifal)
+*   [Future Nif'al](#VerbsFutureNifal)
 *   [Formal](#Formal)
 *   [Business](#Business)
 *   [Outer Space](#The-Outer-Space)
@@ -125,13 +125,13 @@
 *   [Outer Space](#The-Outer-Space)
 *   [There is/To Have](#There-is)
 *   [Travel](#Travel)
-*   [The Conditional](#Verbs:-Conditional)
-*   [Verbs: Future Active 1](#Verbs:-Future-Active)
+*   [The Conditional](#VerbsConditional)
+*   [Verbs: Future Active 1](#VerbsFutureActive)
 *   [Future Nif'al](#VerbsFutureNifal)
 *   [Infinitives 1](#VerbsInfinitive)
 *   [Infinitives 2](#VerbsInfinitives2)
-*   [Verbs: Past Active 1](#Verbs:-Past-Active)
-*   [Verbs: Past Active 2](#Verbs:-Past-Active-2)
+*   [Verbs: Past Active 1](#VerbsPastActive)
+*   [Verbs: Past Active 2](#VerbsPastActive2)
 *   [Past Nif'al](#VerbsPastNifal)
 *   [Verbs: Present - Pi'el](#VerbsPresent2)
 *   [Verbs: Present - Hiph'il](#VerbsPresent3)
@@ -5189,7 +5189,7 @@ NASA, for example, **is** pronounced "na-sa": נאס"א.
 But the USA, ארה"ב is pronounced the same way as ארצות הברית: artsót habrít.  
 Unlike in English, it is uncommon to spell out abbreviations (like USA: yu-ess-aye).
 
-# <a name="Verbs:-Past-Active">Verbs: Past Active 1</a>
+# <a name="VerbsPastActive">Verbs: Past Active 1</a>
 
 ## Intoduction
 
@@ -6388,7 +6388,7 @@ Here are some important numbers to know when visiting Israel:
 
 ## **_Stay Safe!_**
 
-# <a name="Verbs:-Future-Active">Verbs: Future Active 1</a>
+# <a name="VerbsFutureActive">Verbs: Future Active 1</a>
 
 # Future Tense
 
@@ -7145,7 +7145,7 @@ The imperative in nif'al is less common, since many nif'al verbs are passive. Ne
 
 </table>
 
-# <a name="Verbs:-Past-Active-2">Verbs: Past Active 2</a>
+# <a name="VerbsPastActive2">Verbs: Past Active 2</a>
 
 This skill deals mostly with the past tense of the hitpa'el binyan. Here is the standard conjugation pattern:
 
@@ -7409,7 +7409,7 @@ For example:
 Birthday cake - עוגת יום הולדת  
 The birthday cake - עוגת יום **ה**הולדת
 
-# <a name="Verbs:-Conditional">The Conditional</a>
+# <a name="VerbsConditional">The Conditional</a>
 
 We use conditionals to describe hypothetical situations and their consequences.
 
@@ -7519,7 +7519,7 @@ and the ending ון-:
 דוב - bear  
 דובון - teddy bear
 
-# <a name="Verbs:-Future-Nifal">Future Nif'al</a>
+# <a name="VerbsFutureNifal">Future Nif'al</a>
 
 Here is the general pattern for future nif'al:
 
