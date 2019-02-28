@@ -1,4 +1,4 @@
-# Duolingo-Hebrew-tips-and-notes
+# Duolingo Hebrew tips and notes
 The complete tips and notes from Duolingo Hebrew course in one file:
 
 ## [HTML version](https://userscript17.github.io/Duolingo-Hebrew-tips-and-notes/index.html)
