@@ -2,7 +2,7 @@
 
 ## Duolingo: Tips and notes
 
-*   **Lessons**:
+*   <a name="contenttable">**Lessons**</a>:
 *   [Letters 1](#Letters-1)
 *   [Letters 2](#Letters-2)
 *   [Letters 3](#Letters-3)
@@ -133,10 +133,12 @@
 *   [Verbs: Past Active 1](#VerbsPastActive)
 *   [Verbs: Past Active 2](#VerbsPastActive2)
 *   [Past Nif'al](#VerbsPastNifal)
+*   [Verbs: Present - Pa'al](#VerbsPresent1)
 *   [Verbs: Present - Pi'el](#VerbsPresent2)
 *   [Verbs: Present - Hiph'il](#VerbsPresent3)
 *   [Verbs: Present Reflexive - Hitpa'el](#VerbsPresentReflexiveHitpael)
-*   [Verbs: Present - Pa'al](#VerbsPresent)
+
+---
 
 # <a name="Letters-1">Letters 1</a>
 
@@ -577,6 +579,10 @@ In this lesson we come across our first two verbs - לבוא (to come) and לא�
 אוהב (ohév) - "loves/likes" for singular _masculine_ nouns.
 
 אוהבת (ohévet) - "loves/likes" for singular _feminine_ nouns.
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Letters-2">Letters 2</a>
 
@@ -1129,6 +1135,10 @@ mélekh מלך (end of syllable)
 
 The letter שׁ, with a dot at the top right represents "sh", while שׂ, with the dot at the top left, represents "s".
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Letters-3">Letters 3</a>
 
 NEW USERS AND PEOPLE NEW TO HEBREW: See [here](https://www.duolingo.com/comment/17767515) for quick instructions on **typing** and **learning to read** Hebrew.
@@ -1618,6 +1628,10 @@ There are also a few guidelines you can use to help you:
 > *   עכש**יו** (akhsh**áv**)
 > *   על**יו** (al**áv**)
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Common-Phrases">Common Phrases</a>
 
 NEW USERS AND PEOPLE NEW TO HEBREW: See [here](https://www.duolingo.com/comment/17767515) for quick instructions on **typing** and **learning to read** Hebrew.
@@ -1667,6 +1681,10 @@ Literally this means "what is your peace/well-being/welfare?". This is the stand
 The Hebrew phrase for "congratulations" is "מזל טוב" (maz**a**l tov) - not "**ma**zel tov" like in Yiddish! Literally it means "good luck" but it isn't used to wish someone good luck, it simply means that they have already had some good luck (mazal = luck; tov = good).
 
 The Hebrew phrase for "good luck" is בהצלחה (be'hatzlakha), literally "in/with success".
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Basics">Basics</a>
 
@@ -1993,6 +2011,10 @@ For example:
 
 As you can see in the singular masculine form, the letter before "ה" has a "e" vowel (ro'eh), and in the singular feminine form it has an "a" vowel (ro'ah).
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="There-is">There is/To Have</a>
 
 ## To Have
@@ -2169,6 +2191,10 @@ This example may help you to understand the difference:
 לילד יש תפוח, אבל לי אין  
 **_the boy_** has an apple, but **_I_** don't.
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Introduction-to-adjectives">Introduction to adjectives</a>
 
 We use adjectives to describe objects.
@@ -2298,6 +2324,10 @@ And of course, you need the plural for plural nouns:
 Children/Boys are good - ילדים הם טובים  
 Girls are good - ילדות הן טובות
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Food-1">Food 1</a>
 
 ## **The accusative**
@@ -2332,6 +2362,10 @@ You can usually tell from the context whether את is to be pronounced as "et" o
 
 The first את is followed by a verb (a "doing word"), so it has to be _at_, "you". The second is followed by ה + a noun which is **receiving** the action (it is **being eaten**), so it is _et_.
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Animals">Animals</a>
 
 In Hebrew some animals have both masculine and feminine forms. If we use the masculine form, we are referring to a male animal, and if we use the feminine form, we are referring to a female animal.
@@ -2355,6 +2389,10 @@ For example:
 Note that ציפור (bird) is **feminine**, even though it ends in ים in the plural. It is irregular:
 
 ציפורים שרות - Birds are singing. tsiporím sharót
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Plurals">Plurals</a>
 
@@ -2393,6 +2431,10 @@ For example:
 > חתול**ים** (khatul**ím**) - a male or mixed-gender group of cats (plural masculine).
 > 
 > חתול**ות** (khatul**ót**) - female cats (plural feminine).
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Possessives-1">Possessives 1</a>
 
@@ -2590,6 +2632,10 @@ For example:
 
 Technically, שייך is (or was originally) an adjective, so it does not have an infinitive, or past and future tenses. The solution for this is to use the verb "to be" with שייך. "To belong to" is -להיות שייך ל.
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Adjectives1-basics">Adjectives 1 - Basics</a>
 
 ## **Copula (אוגד)**
@@ -2640,6 +2686,10 @@ When you have a noun, an (attributive) adjective and a possessive, the possessiv
 My new dog
 
 _not_ הכלב שלי החדש
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Direct-object">Direct Object</a>
 
@@ -2760,6 +2810,10 @@ The word "את" has suffixes to indicate person and number, like every other pre
 </table>
 
 You might hear some native Israeli speakers using אותכם/אותכן (otkhem/otkhen) for the 2nd person plural, "you". This follows the pattern of "ot" used by the other persons of the word, but it is technically incorrect.
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Clothing">Clothing</a>
 
@@ -2896,6 +2950,10 @@ In the word ג'ינס "jeans", you can see this fairly clearly.
 If the font supports the traditional shape of the _geresh_, it is in line with the top of the letters, but it is slanted, unlike the letter י:
 
 ג׳ינס
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="VerbsPresent1">Verbs: Present - Pa'al</a>
 
@@ -3161,6 +3219,10 @@ Without niqqud, this looks the same as בּ - "in a". Context determines whether
 
 And now for some good news! Hebrew doesn't have a separate continuous aspect (eg. he **is** runn**ing**), so both "he runs" and "he is running" translate to הוא רץ.
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Colors">Colors</a>
 
 Many colors in Hebrew fit the following pattern, in which the masculine singular includes the vowel "o", while the other conjugations include the vowel "u".
@@ -3272,6 +3334,10 @@ Using שחור as an example:
 </tbody>
 
 </table>
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Prepositions-1">Prepositions 1</a>
 
@@ -3523,6 +3589,10 @@ In order to translate the adverb "inside", you need to use a different word, whi
 I am inside - אני בפנים  
 I am inside the house - אני בתוך הבית
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Numbers-1">Numbers 1</a>
 
 In Hebrew, numbers have both masculine and feminine forms:
@@ -3620,6 +3690,10 @@ The word "than" is represented by adding the preposition -מ, which more commonl
 ארבע זה יותר **מ**שלוש  
 Four is more **than** three.
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Questions">Questions</a>
 
 ## Questions
@@ -3649,6 +3723,10 @@ The default gender and number in questions is third person masculine singular. I
 
 Who is eating all the apples? ?מי אוכל את כל התפוחים  
 (Addressing the question to two girls) Who is eating all the apples? ?מי אוכל**ת** את כל התפוחים
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Determiners">Determiners</a>
 
@@ -3770,6 +3848,10 @@ Spanish: Se comen manzanas/Uno come manzanas. Dutch: Men eet appel.
 
 At times it can also have a suggestive tone. For example, if someone says מדברים עברית, it can be equivalent to "one speaks Hebrew", but can also mean something like "you should be speaking Hebrew!".
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Occupations">Occupations</a>
 
 Occupations in Hebrew have both masculine and feminine forms.
@@ -3787,6 +3869,10 @@ For example:
 הגבר במאי - The man is a director (masculine)
 
 האישה במאי**ת** - The woman is a director (feminine)
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Conjunctions">Conjunctions</a>
 
@@ -3951,6 +4037,10 @@ When this conjunction is related to a pronoun, we omit the "ה" and use the conj
 </tbody>
 
 </table>
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Prepositions-2">Prepositions 2</a>
 
@@ -4208,6 +4298,10 @@ Although Hebrew doesn't always make use of a word equivalent to "is" in English 
 
 So "the shoes are outside" can be translated as "הנעליים נמצאות בחוץ". ("the shoes are found/located outside")
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Possessives-2">Possessives 2</a>
 
 ## Possessive nouns
@@ -4372,6 +4466,10 @@ When words have possessive endings attached to them, they are always definite, s
 
 אני רואה **את** סוסך  
 I (can) see your horse.
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="VerbsPresent2">Verbs: Present - Pi'el</a>
 
@@ -4610,6 +4708,10 @@ As in the verb "to change" (transitive):
 *   She visits Tal - היא מבקרת **את** טל
 *   She critiques the restaurant - היא מבקרת **את ה**מסעדה
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Dates-and-Time">Dates and Time</a>
 
 ## The names of the days
@@ -4724,6 +4826,10 @@ The meaning is determined by the context, but in some cases the sentence can mea
 
 In the day-to-day life of the average Israeli, the calendar used is the same as in much of the world, so the names of the months are very similar to in English (yanuar, februar, september etc.). However, there is also a Hebrew lunisolar calendar, which is used in religious contexts. For example, the dates of religious festivals are determined according to their dates in the Hebrew calendar, so their date on the civil calendar changes from year to year. Since this isn't a course in Judaism, we don't teach the months of the Hebrew calendar here, although we do have a lesson at the end of the tree in which you will be able to learn about the most important Jewish holidays, which are celebrated by many Jewish Israelis, even secular ones.
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Adjectives-2">Adjectives 2</a>
 
 ## זקן vs ישן
@@ -4732,6 +4838,10 @@ As you will notice in this lesson, the adjectives זקן (zakén) and ישן (ya
 
 ישן is used to describe **old inanimate objects** (e.g. old book, old TV, old lamp etc.) and זקן is used to describe **old animate objects** (e.g. old people, old man, old dog etc.).
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Adverbs">Adverbs</a>
 
 Many adverbs that end in "-ly" in English are paraphrased in Hebrew by using the word אופן ("way", "method"):
@@ -4739,11 +4849,19 @@ Many adverbs that end in "-ly" in English are paraphrased in Hebrew by using the
 independent - עצמאי  
 independently - באופן עצמאי (literally "in an independent way")
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Family">Family</a>
 
 **Cousins**
 
 In Hebrew the word for a male cousin is literally “son of uncle” (בן דוד), and the word for a female cousin is “daughter of aunt” (בת דודה). Technically, “son of aunt” and “daughter of uncle” are possible, but in effect we like to group the genders together.
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Home">Home Sweet Home</a>
 
@@ -4754,6 +4872,10 @@ If you are out and about and need to relieve yourself, you ask for the שירו�
 The actual toilet bowl is called the אסלה (asla - not taught in the course but just FYI).
 
 The bathtub is called the אמבטיה.
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Construct-state-1">Construct State 1</a>
 
@@ -4824,6 +4946,10 @@ The construct state is not complicated, but requires some practice and memorizin
 
 Good luck!
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="VerbsInfinitive">Infinitives 1</a>
 
 Infinitives in Hebrew work in much the same way as in English. The infinitive form of the verb starts with -ל (to).
@@ -4857,6 +4983,10 @@ This kind of sentence could also be translated as "How does one..." / "How shall
 For example (when using the infinitive "לכתוב" - to write):
 
 > איך לכתוב את זה? = How does one write this? / How do I write this etc.
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="VerbsPresent3">Verbs: Present - Hiph'il</a>
 
@@ -5108,6 +5238,10 @@ Notice the use of the "tzere" and "shva" vowels in this last pattern, which repr
 
 In this lesson there are two verbs which translate as "listen": מקשיב and מאזין. The two words are fairly synonymous, although מקשיב is more common, while מאזין is a little more formal. You would say אני מקשיב למוזיקה "I listen to music". However, you will often hear מאזין on the radio: שלום מאזינות ומאזינים "Hello listeners".
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="People">People</a>
 
 ## ידיד vs חבר
@@ -5119,6 +5253,10 @@ In Hebrew a חבר can be both a friend and a boyfriend, depending on the contex
 In this lesson you will learn the word מבוגר. This word can be both **adult** and **old** depending on the context. If it is functioning as a noun, it will necessarily be translated as "adult".
 
 The "old" translation only applies to animate objects (like "זקן" does) - for example - old people, old man, old dog. We usually use this version when we want to say that a person is not too old (because calling someone זקן can sometimes sound insulting). So try not to call old people "זקן" directly - using "מבוגר" is much more proper.
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Numbers-2">Numbers 2</a>
 
@@ -5155,6 +5293,10 @@ For example:
 
 *   ארבעים וחמישה - forty five (masculine) - lit. forty (neutral) and five (masculine).
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Modal">Modals</a>
 
 Several words in Hebrew that express modality (that is, likelihood, ability, permission, obligation, etc.) do not require a subject. For example:
@@ -5165,11 +5307,19 @@ It is recommended not to do that.
 
 (And not _זה_ מומלץ לא לעשות את זה)
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Education">Education</a>
 
 A student at school or in general is תלמיד/ה (talmid/a).
 
 A university/college student is סטודנט/ית (student/it).
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Travel">Travel</a>
 
@@ -5188,6 +5338,10 @@ Like in English, not all abbreviations are pronounced as words.
 NASA, for example, **is** pronounced "na-sa": נאס"א.  
 But the USA, ארה"ב is pronounced the same way as ארצות הברית: artsót habrít.  
 Unlike in English, it is uncommon to spell out abbreviations (like USA: yu-ess-aye).
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="VerbsPastActive">Verbs: Past Active 1</a>
 
@@ -5751,6 +5905,10 @@ Note that all hiph'il verbs in the past tense start with "hi".
 
 </table>
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Comparison">Comparison</a>
 
 **הכי vs ביותר**
@@ -5760,6 +5918,10 @@ and
 זה הטוב ביותר
 
 mean essentially the same thing: this is the best (one). ביותר is the higher register option but still common in everyday speech.
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="VerbsPresentReflexiveHitpael">Verbs: Present Reflexive - Hitpa'el</a>
 
@@ -6008,6 +6170,10 @@ _Hitpa'el verbs which have the dental consonants ת ד or ט as their first cons
 
 _The dental consonant can be "absorbed" by the ת of hitpa'el, or can remain as is. In the case of absorption י can be added after the מ to make it clear that it is a hitpa'el verb. The pronunciation depends on the speaker. A double-length pronunciation of the dental consonant is in free variation with a single-length pronunciation._
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Adjectives-3">Adjectives 3</a>
 
 **The adjective "גרוע"**
@@ -6023,6 +6189,10 @@ For example:
 Don't confuse it with the adjective "רע" which is used in this sort of situation (could be replaced by "evil"):
 
 > הוא לא אדם רע - he is not a bad person.
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Imperative-1">Imperative 1</a>
 
@@ -6366,6 +6536,10 @@ Verbs with two root consonants, and irregular imperatives, are fairly variable. 
 
 For the remaining three binyanim we have yet to learn, the passive binyanim, there is no imperative conjugation, with one small exception that we will come to.
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Languages">Languages</a>
 
 Most language names in Hebrew end with "ית-" (-it).
@@ -6375,6 +6549,10 @@ Most language names in Hebrew end with "ית-" (-it).
 This is because the name of the language is short for השפה ה...ית (the .... language [literally "lip"], which is a feminine word):
 
 The English language - השפה האנגלית English (the language)- אנגלית
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Emergency!">Emergency!</a>
 
@@ -6387,6 +6565,10 @@ Here are some important numbers to know when visiting Israel:
 102 - The Fire Department
 
 ## **_Stay Safe!_**
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="VerbsFutureActive">Verbs: Future Active 1</a>
 
@@ -6707,6 +6889,10 @@ In sentences such as
 
 The future tense in Hebrew translates into English as "would": "I thought you would be there".
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="PassivePaulPualHufal">Passive: Pa'ul, Pu'al and Huf'al</a>
 
 In this skill we teach two of the three passive constructions (binyanim). Each passive construction has an equivalent active construction:
@@ -6904,6 +7090,10 @@ Note that all present tense verbs in this binyan begin with "mu-".
 
 </table>
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Nifal-Construction">Nif'al Construction</a>
 
 ## The construction: נפעל (Nif'al)
@@ -7065,17 +7255,29 @@ Note that all present tense (and past tense...) verbs in binyan nif'al begin wit
 
 </table>
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Nature">Nature</a>
 
 **כוכב**
 
 כוכב means "star" **or** "planet". However, כוכב לכת is only "planet".
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Discussions-and-decisions">Discussions and decisions</a>
 
 Note that in Hebrew to say someone is wrong, there is a verb: לטעות.
 
 He is wrong - הוא טועה I was wrong/I made a mistake - טעיתי
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Imperative-2">Imperative 2</a>
 
@@ -7144,6 +7346,10 @@ The imperative in nif'al is less common, since many nif'al verbs are passive. Ne
 </tbody>
 
 </table>
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="VerbsPastActive2">Verbs: Past Active 2</a>
 
@@ -7260,6 +7466,10 @@ This skill deals mostly with the past tense of the hitpa'el binyan. Here is the 
 </tbody>
 
 </table>
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="VerbsPastNifal">Past Nif'al</a>
 
@@ -7381,6 +7591,10 @@ You may have noticed that the third person masculine singular is pronounced iden
 
 It sounded good to me - זה היה נשמע לי טוב
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="VerbsInfinitives2">Infinitives 2</a>
 
 **Hiph'il Pattern**
@@ -7398,6 +7612,10 @@ eg. lehitgabér - להתגבר
 lehiXaXeX  
 eg. lehisha'ér - להישאר (or להשאר)
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Contruct-State-2">Construct State 2</a>
 
 **Construct Chains**
@@ -7408,6 +7626,10 @@ For example:
 
 Birthday cake - עוגת יום הולדת  
 The birthday cake - עוגת יום **ה**הולדת
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="VerbsConditional">The Conditional</a>
 
@@ -7450,6 +7672,10 @@ b) On the occasions that he was able to escape, he had the habit of doing so.
 
     > אילולא אני, לא היית פה
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Medical">Medical</a>
 
 In this lesson you will come across a very common way of saying you're feeling pain in Hebrew. When someone feels pain, you'll probably hear them say:
@@ -7466,12 +7692,20 @@ You can use all the other conjugations of the pronoun "ל":
 > 
 > כואבת להם הבטן = their stomach hurts.
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Negative-Imperatives">Negative Imperatives</a>
 
 Negative imperatives are created using the word אל (al) followed by the **future** tense of a verb, conjugated appropriately for tense and person. Note that for negative imperatives we do not use the standard imperative form.
 
 אל תעשה את זה - Don't do that. (to a male, singular)  
 **Not** _אל עשה את זה_ (incorrect!)
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="NounsVerbalNouns">Verbal Nouns</a>
 
@@ -7497,6 +7731,10 @@ And **hitpa'el**, hitXaXXut:
 
 apology (hitnatslút) התנצלות
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Music">Music</a>
 
 **The notes of the scale**
@@ -7506,6 +7744,10 @@ In Hebrew the names of the notes in an octave are often referred to using the so
 (דו רה מי פה סול לה סי (דו
 
 These are not words in the current lesson, but it may interest musicians to know this!
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Diminutives">Diminutives</a>
 
@@ -7518,6 +7760,10 @@ Other options exist for creating smaller versions of already existing words, suc
 and the ending ון-:  
 דוב - bear  
 דובון - teddy bear
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="VerbsFutureNifal">Future Nif'al</a>
 
@@ -7624,6 +7870,10 @@ Here is the general pattern for future nif'al:
 </tbody>
 
 </table>
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Formal">Formal</a>
 
@@ -7909,11 +8159,19 @@ _These business deals **are** particularly attractive - עסקאות אלו **ה
 
 _In fact, the Academy of the Hebrew Language does not consider this to be correct Hebrew, but rather a type of hypercorrection. Therefore, you should be aware of this type of formal Hebrew but try not to emulate it. In the examples above, the words הוא and הן would be perfectly acceptable in formal Hebrew._
 
+[Content Table](#contenttable)
+
+---
+
 # <a name="Business">Business</a>
 
 The currency of Israel is the Shekel (שקל), plural Shkalim (שקלים). It has its own special symbol: ₪, derived from the combination of the letters of the abbreviation ש"ח (New Shekel - שקל חדש). You can access it by holding alt gr (right alt) and typing 4 on the number bar. (Not necessary for the course, just something extra).
 
 Shkalim are divided into 100 Agorot (אגורות).
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="The-Outer-Space">Outer Space</a>
 
@@ -7926,6 +8184,10 @@ You may see כוכב חמה and at first think "why does חמה (hot in its femi
 **The planets**
 
 The planets, up to and including Saturn, each have their own Hebrew name in addition to the internationally recognised names. For example, Jupiter is צדק, but can also be referred to as יופיטר. Uranus and any other planets, dwarf planets and asteroids found in more modern times have a name based on the international names. Neptune, for example, is נפטון. However, on the 30th of December 2009, the Academy of the Hebrew Language announced Hebrew names for Uranus (אורון - Oron) and Neptune (רהב - Rahav). Only time will tell if these names catch on.
+
+[Content Table](#contenttable)
+
+---
 
 # <a name="Jewish-Festivals">Jewish Festivals</a>
 
@@ -7958,3 +8220,5 @@ Here is a brief review of the main Jewish holidays that are mentioned in this un
 Names of most holidays will appear in their common transliterated form.
 
 (Source:Wikipedia)
+
+[Content Table](#contenttable)
