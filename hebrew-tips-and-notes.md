@@ -2324,7 +2324,11 @@ And of course, you need the plural for plural nouns:
 Children/Boys are good - ילדים הם טובים  
 Girls are good - ילדות הן טובות
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Introduction to adjectives](#Introduction-to-adjectives) | 
+[Adjectives 1 - Basics](#Adjectives1-basics) | 
+[Adjectives 2](#Adjectives-2) | 
+[Adjectives 3](#Adjectives-3)
 
 ---
 
