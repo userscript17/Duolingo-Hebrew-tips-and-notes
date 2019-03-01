@@ -580,7 +580,9 @@ In this lesson we come across our first two verbs - לבוא (to come) and לא�
 
 אוהבת (ohévet) - "loves/likes" for singular _feminine_ nouns.
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Letters 2](#Letters-2) | 
+[Letters 3](#Letters-3)
 
 ---
 
@@ -1135,7 +1137,9 @@ mélekh מלך (end of syllable)
 
 The letter שׁ, with a dot at the top right represents "sh", while שׂ, with the dot at the top left, represents "s".
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Letters 1](#Letters-1) | 
+[Letters 3](#Letters-3)
 
 ---
 
@@ -1628,7 +1632,9 @@ There are also a few guidelines you can use to help you:
 > *   עכש**יו** (akhsh**áv**)
 > *   על**יו** (al**áv**)
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Letters 1](#Letters-1) | 
+[Letters 2](#Letters-2)
 
 ---
 
@@ -2636,7 +2642,9 @@ For example:
 
 Technically, שייך is (or was originally) an adjective, so it does not have an infinitive, or past and future tenses. The solution for this is to use the verb "to be" with שייך. "To belong to" is -להיות שייך ל.
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Possessives 1](#Possessives-1) | 
+[Possessives 2](#Possessives-2)
 
 ---
 
@@ -2691,7 +2699,11 @@ My new dog
 
 _not_ הכלב שלי החדש
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Introduction to adjectives](#Introduction-to-adjectives) | 
+[Adjectives 1 - Basics](#Adjectives1-basics) | 
+[Adjectives 2](#Adjectives-2) | 
+[Adjectives 3](#Adjectives-3)
 
 ---
 
@@ -3223,7 +3235,11 @@ Without niqqud, this looks the same as בּ - "in a". Context determines whether
 
 And now for some good news! Hebrew doesn't have a separate continuous aspect (eg. he **is** runn**ing**), so both "he runs" and "he is running" translate to הוא רץ.
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Verbs: Present - Pa'al](#VerbsPresent1) | 
+[Verbs: Present - Pi'el](#VerbsPresent2) | 
+[Verbs: Present - Hiph'il](#VerbsPresent3) | 
+[Verbs: Present Reflexive - Hitpa'el](#VerbsPresentReflexiveHitpael)
 
 ---
 
@@ -3593,7 +3609,9 @@ In order to translate the adverb "inside", you need to use a different word, whi
 I am inside - אני בפנים  
 I am inside the house - אני בתוך הבית
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Prepositions 1](#Prepositions-1) | 
+[Prepositions 2](#Prepositions-2)
 
 ---
 
@@ -4302,7 +4320,9 @@ Although Hebrew doesn't always make use of a word equivalent to "is" in English 
 
 So "the shoes are outside" can be translated as "הנעליים נמצאות בחוץ". ("the shoes are found/located outside")
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Prepositions 1](#Prepositions-1) | 
+[Prepositions 2](#Prepositions-2)
 
 ---
 
@@ -4471,7 +4491,9 @@ When words have possessive endings attached to them, they are always definite, s
 אני רואה **את** סוסך  
 I (can) see your horse.
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Possessives 1](#Possessives-1) | 
+[Possessives 2](#Possessives-2)
 
 ---
 
@@ -4712,7 +4734,11 @@ As in the verb "to change" (transitive):
 *   She visits Tal - היא מבקרת **את** טל
 *   She critiques the restaurant - היא מבקרת **את ה**מסעדה
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Verbs: Present - Pa'al](#VerbsPresent1) | 
+[Verbs: Present - Pi'el](#VerbsPresent2) | 
+[Verbs: Present - Hiph'il](#VerbsPresent3) | 
+[Verbs: Present Reflexive - Hitpa'el](#VerbsPresentReflexiveHitpael)
 
 ---
 
@@ -4842,7 +4868,11 @@ As you will notice in this lesson, the adjectives זקן (zakén) and ישן (ya
 
 ישן is used to describe **old inanimate objects** (e.g. old book, old TV, old lamp etc.) and זקן is used to describe **old animate objects** (e.g. old people, old man, old dog etc.).
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Introduction to adjectives](#Introduction-to-adjectives) | 
+[Adjectives 1 - Basics](#Adjectives1-basics) | 
+[Adjectives 2](#Adjectives-2) | 
+[Adjectives 3](#Adjectives-3)
 
 ---
 
@@ -4950,7 +4980,9 @@ The construct state is not complicated, but requires some practice and memorizin
 
 Good luck!
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Construct State 1](#Construct-state-1) | 
+[Construct State 2](#Contruct-State-2)
 
 ---
 
@@ -4988,7 +5020,9 @@ For example (when using the infinitive "לכתוב" - to write):
 
 > איך לכתוב את זה? = How does one write this? / How do I write this etc.
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Infinitives 1](#VerbsInfinitive) | 
+[Infinitives 2](#VerbsInfinitives2)
 
 ---
 
@@ -5242,7 +5276,11 @@ Notice the use of the "tzere" and "shva" vowels in this last pattern, which repr
 
 In this lesson there are two verbs which translate as "listen": מקשיב and מאזין. The two words are fairly synonymous, although מקשיב is more common, while מאזין is a little more formal. You would say אני מקשיב למוזיקה "I listen to music". However, you will often hear מאזין on the radio: שלום מאזינות ומאזינים "Hello listeners".
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Verbs: Present - Pa'al](#VerbsPresent1) | 
+[Verbs: Present - Pi'el](#VerbsPresent2) | 
+[Verbs: Present - Hiph'il](#VerbsPresent3) | 
+[Verbs: Present Reflexive - Hitpa'el](#VerbsPresentReflexiveHitpael)
 
 ---
 
@@ -5909,7 +5947,10 @@ Note that all hiph'il verbs in the past tense start with "hi".
 
 </table>
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Verbs: Past Active 1](#VerbsPastActive) | 
+[Verbs: Past Active 2](#VerbsPastActive2) | 
+[Past Nif'al](#VerbsPastNifal)
 
 ---
 
@@ -6174,7 +6215,11 @@ _Hitpa'el verbs which have the dental consonants ת ד or ט as their first cons
 
 _The dental consonant can be "absorbed" by the ת of hitpa'el, or can remain as is. In the case of absorption י can be added after the מ to make it clear that it is a hitpa'el verb. The pronunciation depends on the speaker. A double-length pronunciation of the dental consonant is in free variation with a single-length pronunciation._
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Verbs: Present - Pa'al](#VerbsPresent1) | 
+[Verbs: Present - Pi'el](#VerbsPresent2) | 
+[Verbs: Present - Hiph'il](#VerbsPresent3) | 
+[Verbs: Present Reflexive - Hitpa'el](#VerbsPresentReflexiveHitpael)
 
 ---
 
@@ -6194,7 +6239,11 @@ Don't confuse it with the adjective "רע" which is used in this sort of situati
 
 > הוא לא אדם רע - he is not a bad person.
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Introduction to adjectives](#Introduction-to-adjectives) | 
+[Adjectives 1 - Basics](#Adjectives1-basics) | 
+[Adjectives 2](#Adjectives-2) | 
+[Adjectives 3](#Adjectives-3)
 
 ---
 
@@ -6540,7 +6589,10 @@ Verbs with two root consonants, and irregular imperatives, are fairly variable. 
 
 For the remaining three binyanim we have yet to learn, the passive binyanim, there is no imperative conjugation, with one small exception that we will come to.
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Imperative 1](#Imperative-1) | 
+[Imperative 2](#Imperative-2) | 
+[Negative Imperatives](#Negative-Imperatives)
 
 ---
 
@@ -6893,7 +6945,9 @@ In sentences such as
 
 The future tense in Hebrew translates into English as "would": "I thought you would be there".
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Verbs: Future Active 1](#VerbsFutureActive) | 
+[Future Nif'al](#VerbsFutureNifal)
 
 ---
 
@@ -7094,7 +7148,8 @@ Note that all present tense verbs in this binyan begin with "mu-".
 
 </table>
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Nif'al Construction](#Nifal-Construction)
 
 ---
 
@@ -7259,7 +7314,8 @@ Note that all present tense (and past tense...) verbs in binyan nif'al begin wit
 
 </table>
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Passive: Pa'ul, Pu'al and Huf'al](#PassivePaulPualHufal)
 
 ---
 
@@ -7351,7 +7407,10 @@ The imperative in nif'al is less common, since many nif'al verbs are passive. Ne
 
 </table>
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Imperative 1](#Imperative-1) | 
+[Imperative 2](#Imperative-2) | 
+[Negative Imperatives](#Negative-Imperatives)
 
 ---
 
@@ -7471,7 +7530,10 @@ This skill deals mostly with the past tense of the hitpa'el binyan. Here is the 
 
 </table>
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Verbs: Past Active 1](#VerbsPastActive) | 
+[Verbs: Past Active 2](#VerbsPastActive2) | 
+[Past Nif'al](#VerbsPastNifal)
 
 ---
 
@@ -7595,7 +7657,10 @@ You may have noticed that the third person masculine singular is pronounced iden
 
 It sounded good to me - זה היה נשמע לי טוב
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Verbs: Past Active 1](#VerbsPastActive) | 
+[Verbs: Past Active 2](#VerbsPastActive2) | 
+[Past Nif'al](#VerbsPastNifal)
 
 ---
 
@@ -7616,7 +7681,9 @@ eg. lehitgabér - להתגבר
 lehiXaXeX  
 eg. lehisha'ér - להישאר (or להשאר)
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Infinitives 1](#VerbsInfinitive) | 
+[Infinitives 2](#VerbsInfinitives2)
 
 ---
 
@@ -7631,7 +7698,9 @@ For example:
 Birthday cake - עוגת יום הולדת  
 The birthday cake - עוגת יום **ה**הולדת
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Construct State 1](#Construct-state-1) | 
+[Construct State 2](#Contruct-State-2)
 
 ---
 
@@ -7707,7 +7776,10 @@ Negative imperatives are created using the word אל (al) followed by the **futu
 אל תעשה את זה - Don't do that. (to a male, singular)  
 **Not** _אל עשה את זה_ (incorrect!)
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Imperative 1](#Imperative-1) | 
+[Imperative 2](#Imperative-2) | 
+[Negative Imperatives](#Negative-Imperatives)
 
 ---
 
@@ -7875,7 +7947,9 @@ Here is the general pattern for future nif'al:
 
 </table>
 
-[Content Table](#contenttable)
+[Content Table](#contenttable) | 
+[Verbs: Future Active 1](#VerbsFutureActive) | 
+[Future Nif'al](#VerbsFutureNifal)
 
 ---
 
